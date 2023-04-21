@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kheradmandimasoud416@gmail.com**
 
-- ⚡ Fun fact **Im not Fun :))**
+- ⚡ I Love Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
