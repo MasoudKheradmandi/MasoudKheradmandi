@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **kheradmandimasoud416@gmail.com**
 
-- ⚡ I Love Learning 
+- ⚡ I Love Learning
+- [My Weblog](https://bekhanidbama.eu.pythonanywhere.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
