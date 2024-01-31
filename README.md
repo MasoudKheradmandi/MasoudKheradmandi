@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AmirMasoud</h1>
 <h3 align="center"> Backend Developer</h3>
 
-- 🔭 I’m currently working on [jobBoard](https://github.com/MasoudKheradmandi/JobBoard)
+- 🔭 I’m currently working on [modern_shop](https://github.com/MasoudKheradmandi/modern_shop)
 
 - 🌱 I’m currently learning **Linux**
 
